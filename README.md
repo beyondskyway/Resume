@@ -56,3 +56,35 @@
 * 阳光俱乐部副部长，学习委员，年级助管
 * 热爱编程、互联网技术；工作细致、善于思考；有良好的分析、推进及解决问题的能力
 * 强烈的责任心，良好的沟通表达能力和团队协作能力
+
+
+###**项目展示**
+
+---
+* **五轴微加工加工中心**
+![主界面][1]
+![各页功能界面][2]
+
+* **武汉高校之恋**
+![主页，Online，个人资料][3]
+![关注粉丝，资料编辑，匹配系统][4]
+![私信，表情，嘉宾][5]
+![头像、背景及相册管理和查看][6]
+
+
+* **武汉晚报遇见**
+![报名系统，缘分社区，喜欢][7]
+![私信，筛选，个人资料][8]
+
+* PicBed
+https://github.com/beyondskyway/PicBed
+
+
+  [1]: http://7ximdq.com1.z0.glb.clouddn.com/1439275533826
+  [2]: http://7ximdq.com1.z0.glb.clouddn.com/1439275551439
+  [3]: http://7ximdq.com1.z0.glb.clouddn.com/1439275555985
+  [4]: http://7ximdq.com1.z0.glb.clouddn.com/1439275563259
+  [5]: http://7ximdq.com1.z0.glb.clouddn.com/1439276272681
+  [6]: http://7ximdq.com1.z0.glb.clouddn.com/1439275573856
+  [7]: http://7ximdq.com1.z0.glb.clouddn.com/1439275584496
+  [8]: http://7ximdq.com1.z0.glb.clouddn.com/1439275593906
